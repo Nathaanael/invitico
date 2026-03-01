@@ -1,0 +1,44 @@
+{
+  "app\\page.tsx -> ./components/CustomCursor": {
+    "id": "app\\page.tsx -> ./components/CustomCursor",
+    "files": [
+      "static/chunks/_app-pages-browser_app_components_CustomCursor_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> ./components/FloatingPetals": {
+    "id": "app\\page.tsx -> ./components/FloatingPetals",
+    "files": [
+      "static/chunks/_app-pages-browser_app_components_FloatingPetals_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> ./components/Loader": {
+    "id": "app\\page.tsx -> ./components/Loader",
+    "files": [
+      "static/chunks/_app-pages-browser_app_components_Loader_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> ./components/MusicButton": {
+    "id": "app\\page.tsx -> ./components/MusicButton",
+    "files": [
+      "static/chunks/_app-pages-browser_app_components_MusicButton_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> ./components/Navbar": {
+    "id": "app\\page.tsx -> ./components/Navbar",
+    "files": [
+      "static/chunks/_app-pages-browser_app_components_Navbar_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> ./components/ParticleCanvas": {
+    "id": "app\\page.tsx -> ./components/ParticleCanvas",
+    "files": [
+      "static/chunks/_app-pages-browser_app_components_ParticleCanvas_tsx.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  }
+}
